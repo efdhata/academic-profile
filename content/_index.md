@@ -48,15 +48,14 @@ sections:
           date_start: '2021-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Current research topic includes:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Correction of satellite-derived solar irradiance data using statistical methods
+              * Feasibility study of photovoltaic and concentrator solar power
         - title: Laboratory assistant
           company: Institut Teknologi Bandung
           company_url: 'https://tf.itb.ac.id/en/'
-          company_logo: logo-itb
+          company_logo: logo_itb
           location: Bandung, Indonesia
           date_start: '2020-01-01'
           date_end: '2020-05-31'
@@ -66,6 +65,7 @@ sections:
   - block: collection
     content:
       title: Publications
+      id: publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
