@@ -9,11 +9,11 @@ authors:
 author_notes:
 - 
 - "Corresponding Author"
-date: "2022-1-28T00:00:00Z"
+date: "2022-11-28T00:00:00Z"
 doi: "10.3390/en15239010"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-11-28T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
