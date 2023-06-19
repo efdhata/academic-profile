@@ -1,13 +1,16 @@
 ---
-title: "An example journal article"
+title: "Site-Adaptation for Correcting Satellite-Derived Solar Irradiance: Performance Comparison between Various Regressive and Distribution Mapping Techniques for Application in Daejeon, South Korea"
 authors:
 - admin
-- Robert Ford
+- Chang Ki Kim
+- Hyun-Goo Kim
+- Boyoung Kim
+- Myeongchan Oh
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- 
+- "Corresponding Author"
+date: "2022-1-28T00:00:00Z"
+doi: "10.3390/en15239010"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,23 +22,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Energies, 15*"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Satellite-derived solar irradiance is advantageous in solar resource assessment due to its high spatiotemporal availability, but its discrepancies to ground-observed values remain an issue for reliability. Site adaptation can be employed to correct these errors by using short-term high-quality ground-observed values. Recent studies have highlighted the benefits of the sequential procedure of a regressive and a distribution-mapping technique in comparison to their individual counterparts. In this paper, we attempted to improve the sequential procedure by using various distribution mapping techniques in addition to the previously proposed quantile mapping. We applied these site-adaptation techniques on the global horizontal irradiance (GHI) and direct normal irradiance (DNI) obtained from the UASIBS-KIER model in Daejeon, South Korea. The best technique, determined by a ranking methodology, can reduce the mean bias from &minus;5.04% and 13.51% to &minus;0.45% and &minus;2.02% for GHI and DNI, respectively, and improve distribution similarity by 2.5 times and 4 times for GHI and DNI, respectively. Partial regression and residual plot analysis were attempted to examine our finding that the sequential procedure is better than individual techniques for GHI, whereas the opposite is true for DNI. This is an initial study to achieve generalized site-adaptation techniques for the UASIBS-KIER model output.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Site adaptation can be employed to correct satellite-derived solar irradiance that has discrepancies to ground-observed values. In this paper, we attempted to improve the sequential site-adaptation procedure by using various distribution mapping techniques in addition to the previously proposed quantile mapping.
 
 tags:
-- Source Themes
+- site-adaptation
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://www.mdpi.com/1996-1073/15/23/9010/pdf?version=1669721791
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -62,7 +65,8 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+<>slides: example
+slides: ""
 ---
 
 {{% callout note %}}
