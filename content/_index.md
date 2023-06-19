@@ -42,8 +42,8 @@ sections:
       items:
         - title: Graduate student researcher
           company: Korea Institute of Energy Research
-          company_url: ''
-          company_logo: org-gc
+          company_url: 'https://www.kier.re.kr/eng/'
+          company_logo: logo_kier_3
           location: Daejeon, South Korea
           date_start: '2021-03-01'
           date_end: ''
@@ -55,8 +55,8 @@ sections:
               * Deploying
         - title: Laboratory assistant
           company: Institut Teknologi Bandung
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://tf.itb.ac.id/en/'
+          company_logo: logo-itb
           location: Bandung, Indonesia
           date_start: '2020-01-01'
           date_end: '2020-05-31'
