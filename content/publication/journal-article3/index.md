@@ -6,7 +6,7 @@ authors:
 - Myeongchan Oh
 - Hyun-Goo Kim
 author_notes:
-- 
+- " "
 - "Corresponding Author"
 date: "2024-01-10T00:00:00Z"
 doi: "10.1007/s13143-023-00350-4"
@@ -37,13 +37,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://rdcu.be/dZu17
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
