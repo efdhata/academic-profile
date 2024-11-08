@@ -46,7 +46,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
+image:
   caption: 'Example of probabilistic site-adaptation'
   focal_point: ""
   preview_only: false
