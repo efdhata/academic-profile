@@ -17,14 +17,14 @@ sections:
       title: Skills
       items:
         - name: python
-          description: time-series data, machine learning, visualization
+          description: data handling (time-series, multiple array), machine learning, visualization
           icon: python
           icon_pack: fab
         - name: Resource assessment
-          description: Solar irradiance
+          description: solar irradiance, wind, power estimates
           icon: cloud-sun
           icon_pack: fas
-        - name: Renewable Energy
+        - name: Renewable energy
           description: feasibility study
           icon: solar-panel
           icon_pack: fas
@@ -50,8 +50,15 @@ sections:
           description: |2-
               Current research topic includes:
 
+              * Variability analysis for solar and wind resources
+              * Solar and wind resource assessment using climate model output (SSP Scenarios)
+              * Complementarity analysis of solar and wind resources
+
+              Past projects:
+
               * Correction of satellite-derived solar irradiance data using statistical methods
-              * Feasibility study of photovoltaic and concentrator solar power
+              * Feasibility study of photovoltaic power plant
+    
         - title: Laboratory assistant
           company: Institut Teknologi Bandung
           company_url: 'https://tf.itb.ac.id/en/'
