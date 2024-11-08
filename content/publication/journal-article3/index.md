@@ -21,8 +21,8 @@ publishDate: "2024-01-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Asia-Pac J Atmos Sci, 60*"
-publication_short: ""
+publication: "*Asia-Pacific Journal of Atmospheric Sciences , 60*"
+publication_short: "Asia-Pac J Atmos Sci"
 
 abstract: Site adaptation has become a necessary step in resource assessment for ensuring the bankability of a renewable energy project. The process involves collecting short-term observation data to correct the long-term dataset available from the satellite-derived models, which could thus provide a more accurate estimate of the solar resource data. This study aims to enhance the site-adaptation of direct normal irradiance, as its correction remains notably challenging in comparison to global horizontal irradiance due to its larger error, which is often attributed to the complexity of cloud modeling. A new methodology for site-adaptation is proposed that exploits the use of a new indicator variable that describes the correctness of sky-condition classification by the clear-sky index. This variable has dual applications within the context of site adaptation: firstly, it is employed in the two-step binning procedure subsequent to the conventional clear-sky binning during preprocessing, and secondly, it serves as an additional input feature in machine-learning-based site adaptation. The results show that the former method can reduce the mean bias error to a mere 0.4%, while the latter is better for reducing large discrepancies as shown by the lower root mean squared error.
 
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'caption'
   focal_point: ""
   preview_only: false
 
@@ -76,3 +76,5 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
