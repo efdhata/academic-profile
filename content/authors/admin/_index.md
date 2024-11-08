@@ -29,6 +29,7 @@ interests:
   - Renewable Energy
   - Resource Assessment
   - Solar Energy
+  - Wind Energy
 
 # Education to show in About widget
 education:
@@ -45,10 +46,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitter
+  # - icon: linkedin-in
   #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
-  #  label: Follow me on Twitter
+  #  link: https://www.linkedin.com/in/elvina-dhata/
+  #  label: Connect with me on LinkedIn
   #  display:
   #    header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -74,5 +75,5 @@ email: ''
 highlight_name: true
 ---
 
-Elvina is a graduate student in New and Renewable Energy Resource Lab. Her research interests include solar resource assessment, renewable energy application.
+Elvina is a graduate student in Renewable Energy Big Data Laboratory, Korea Institute of Energy Research. Her research focuses on solar and wind resource assessment for renewable energy.
 {style="text-align: justify;"}
