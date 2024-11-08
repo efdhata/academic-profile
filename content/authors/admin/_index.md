@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: "mailto:elvinafd@gmail.com"#'/#contact'
   # - icon: linkedin-in
   #  icon_pack: fab
   #  link: https://www.linkedin.com/in/elvina-dhata/
